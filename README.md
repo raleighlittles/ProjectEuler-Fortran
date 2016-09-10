@@ -11,3 +11,5 @@ List of problems solved.
 * [Problem 2: Even Fibonacci numbers](https://projecteuler.net/problem=2)
 
 * [Problem 3: Largest prime factor](https://projecteuler.net/problem=3)
+
+* [Problem 4: Largest palindrome product](https://projecteuler.net/problem=4)
