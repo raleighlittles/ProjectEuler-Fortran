@@ -13,3 +13,5 @@ List of problems solved.
 * [Problem 3: Largest prime factor](https://projecteuler.net/problem=3)
 
 * [Problem 4: Largest palindrome product](https://projecteuler.net/problem=4)
+
+* [Problem 5: Smallest multiple](https://projecteuler.net/problem=5)
