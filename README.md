@@ -15,3 +15,5 @@ List of problems solved.
 * [Problem 4: Largest palindrome product](https://projecteuler.net/problem=4)
 
 * [Problem 5: Smallest multiple](https://projecteuler.net/problem=5)
+
+* [Problem 6: Sum square difference](https://projecteuler.net/problem=6)
