@@ -17,3 +17,5 @@ List of problems solved.
 * [Problem 5: Smallest multiple](https://projecteuler.net/problem=5)
 
 * [Problem 6: Sum square difference](https://projecteuler.net/problem=6)
+
+* [Problem 7: 10001st prime](https://projecteuler.net/problem=7)
