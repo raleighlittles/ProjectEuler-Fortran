@@ -19,3 +19,7 @@ List of problems solved.
 * [Problem 6: Sum square difference](https://projecteuler.net/problem=6)
 
 * [Problem 7: 10001st prime](https://projecteuler.net/problem=7)
+
+* [Problem 9: Special Pythagorean triplet](https://projecteuler.net/problem=9)
+
+* [Problem 10: Summation of primes](https://projecteuler.net/problem=10)
