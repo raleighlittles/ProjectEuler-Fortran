@@ -23,3 +23,7 @@ List of problems solved.
 * [Problem 9: Special Pythagorean triplet](https://projecteuler.net/problem=9)
 
 * [Problem 10: Summation of primes](https://projecteuler.net/problem=10)
+
+* [Problem 12: Highly divisible triangular number]( https://projecteuler.net/problem=12)
+
+* [Problem 30: Digit fifth powers](https://projecteuler.net/problem=30)
